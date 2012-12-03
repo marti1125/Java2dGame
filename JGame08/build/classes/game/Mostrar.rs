@@ -1,0 +1,2 @@
+game.tiles
+game.Mostrar
